@@ -1,4 +1,5 @@
 # app.py
+pip install scikit-learn
 import streamlit as st
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
